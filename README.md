@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/lie_law" target="blank"><img src="https://img.shields.io/twitter/follow/lie_law?logo=twitter&style=for-the-badge" alt="lie_law" /></a> </p>
 - 🌱 I’m currently learning **React,Redux**
 
-- 👨‍💻 All of my projects are available at [https://safahelvaci.netlify.app](https://safahelvaci.netlify.app)
+- 👨‍💻 My Portfolio [https://safahelvaci.netlify.app](https://safahelvaci.netlify.app)
 
 - 📫 How to reach me **helvacisefa@gmail.com**
 

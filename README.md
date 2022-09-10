@@ -34,6 +34,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khealer&show_icons=true&locale=en&layout=compact" alt="khealer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khealer&show_icons=true&locale=en" alt="khealer" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kHealer&theme=tokyonight)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khealer&" alt="khealer" /></p>
 

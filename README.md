@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **helvacisefa@gmail.com**
 
-- ⚡ Fun fact **HeHe HoHo**
+- ⚡ Fun fact **HeHe HoHoo**
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khealer" alt="khealer" /></a> </p>

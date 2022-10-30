@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khealer&label=Profile%20views&color=0e75b6&style=flat" alt="khealer" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lie_law" target="blank"><img src="https://img.shields.io/twitter/follow/lie_law?logo=twitter&style=for-the-badge" alt="lie_law" /></a> </p>
-- 🌱 I’m currently learning **React,Redux**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 My Portfolio [https://safahelvaci.netlify.app](https://safahelvaci.netlify.app)
 

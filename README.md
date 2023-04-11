@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khealer&label=Profile%20views&color=0e75b6&style=flat" alt="khealer" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning .netcore/python backend Devolopment + test-automation
 
 - 👨‍💻 My Portfolio [https://safahelvaci.netlify.app](https://safahelvaci.netlify.app)
 
